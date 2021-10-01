@@ -45,10 +45,10 @@ export const styles = StyleSheet.create({
     fontSize: 12,
   },
   posts: {
-    flex: 1,
+    flex: 2,
   },
   post: {
-    marginTop: 52
+    marginTop: 50,
   },
   postHeader: {
     flexDirection: 'row',
